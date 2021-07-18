@@ -1,4 +1,4 @@
-package com.mopanc.imcapp
+package com.mopanc.imc_app
 
 import org.junit.Test
 

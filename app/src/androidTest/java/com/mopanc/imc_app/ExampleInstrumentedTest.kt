@@ -1,4 +1,4 @@
-package com.mopanc.imcapp
+package com.mopanc.imc_app
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.mopanc.imcapp", appContext.packageName)
+        assertEquals("com.mopanc.imc_app", appContext.packageName)
     }
 }
